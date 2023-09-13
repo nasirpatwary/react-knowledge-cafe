@@ -1,0 +1,42 @@
+[
+  {
+      "id": 12345,
+      "cover": "https://i.ibb.co/ZBf74QQ/1.jpg",
+      "title": "Secrets of the Enchanted Forest",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/Z6QHZV2/girl2.jpg",
+      "posted_date": "September 5, 2023",
+      "reading_time": 20,
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+  },
+  {
+      "id": 67890,
+      "cover": "https://i.ibb.co/3my7P9M/2.png",
+      "title": "Mystery at Moonlight Manor",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/nc6nNn3/girl1.jpg",
+      "posted_date": "August 18, 2023",
+      "reading_time": 15,
+      "hashtags": ["#Mystery", "#Suspense", "#Detective"]
+  },
+  {
+      "id": 23456,
+      "cover": "https://i.ibb.co/yfxZmb4/3.png",
+      "title": "Lost in Time: A Historical Journey",
+      "author": "Sarah Adams",
+      "author_img": "https://i.ibb.co/MMs2XLf/boy2.jpg",
+      "posted_date": "July 10, 2023",
+      "reading_time": 30,
+      "hashtags": ["#History", "#TimeTravel", "#Adventure"]
+  },
+  {
+      "id": 78901,
+      "cover": "https://i.ibb.co/PNkmfG6/4.jpg",
+      "title": "Recipes from Around the World",
+      "author": "John Wilson",
+      "author_img": "https://i.ibb.co/RHr3JSv/boy1.png",
+      "posted_date": "June 25, 2023",
+      "reading_time": 25,
+      "hashtags": ["#Cookbook", "#Cuisine", "#Foodie"]
+  } 
+]
